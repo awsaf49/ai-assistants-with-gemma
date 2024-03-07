@@ -17,4 +17,5 @@ This notebook guides you through performing `"1. Answer common questions about t
 
 <u>Fun fact</u>: This notebook is backend-agnostic, supporting TensorFlow, PyTorch, and JAX. However, the best performance can be achieved from `JAX`. Utilizing KerasNLP and Keras allows us to choose our preferred backend. Explore more details on [Keras](https://keras.io/keras_3/).
 
-**Note**: For a more in-depth understanding of KerasNLP, refer to the [KerasNLP guides](https://keras.io/keras_nlp/).
+
+**Note**: Code is available in [kaggle](https://www.kaggle.com/code/awsaf49/kaggle-qa-with-gemma-kerasnlp-starter). 
